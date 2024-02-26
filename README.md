@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Supply Chain Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Transaction Hash
+`0x78a7684fe04d403b4306ca37d912587de0d66f06b0f60387699aa98bace2b238`
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## Screenshots
+![Factory Deployed](screenshots/Deploying%20Factory.png)
+![Interaction](screenshots/Supp;y%20Interaction.png)
